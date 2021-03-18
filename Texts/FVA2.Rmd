@@ -1,0 +1,20 @@
+---
+title: "FVA2"
+author: "Thierry"
+date: "1/12/2016"
+output: html_document
+---
+
+
+In FVA analysis, you compare the analyst’s override to the statistically generated forecast to determine if the override makes the forecast better. FVA analysis also compares both the statistical forecast and the analyst forecast to a naïve forecast.
+
+#### The naive forecast
+FVA analysis is based on a simple, scientific method:
+When a pharmaceutical company comes up with a new pill, it must demonstrate that the pill is safe and effective. Part of this demonstration is to run a controlled experiment, using a placebo.
+From is simple calculation, a naïve forecast serves as the placebo in evaluating forecasting process performance.
+
+#### Why using FVA?
+The reason we measure FVA is to identify waste and inefficiency in the forecasting process. When FVA is negative, then clearly this activity is a waste and should be improved. By identifying and improving the activities
+that do not add value (those activities that are not making the forecast better) you can streamline your process.
+
+The nice thing about FVA is that when you identify those activities that are jut making the forecast worse, you can actually focus on improving the step and get better forecasts at low cost.

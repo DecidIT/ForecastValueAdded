@@ -1,0 +1,18 @@
+---
+title: "How-to"
+author: "Thierry"
+date: "7/9/2017"
+output: html_document
+---
+
+
+## Sidebar
+Under the section **Input**, a user can choose **Error Metric** and **Naive forecast** applicable to the set of data for analysis.
+Under the section **Filters**, a user is able to choose the subset of data to analyse.
+Finaly, **How-to** section is where the graphic elements of the application are described. 
+
+## Main panel
+The tab **METRICS** the calculated error(s)  are shown in table and graphic views.
+Underneath the tab **ANALYSIS**, a user can compare the naive forecast to the other steps of the forecast process.
+The tab **INFERENCES** displays the statistical inferences, and helps determine the significance of the forecast error.
+The tab **APPLICATION**  describes the functionality **Forecast Value Added (FVA)**

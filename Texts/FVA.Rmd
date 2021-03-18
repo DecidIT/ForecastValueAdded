@@ -1,0 +1,14 @@
+---
+title: "Forecast Value Added"
+author: "Thierry"
+date: "1/12/2016"
+output: html_document
+---
+
+#### How to get a better forecast for free?
+Traditional forecasting performance metrics, such as forecast accuracy, tell the size of the forecast error. However, these metrics tell nothing about how efficient your company is at forecasting or whether the efforts are making the forecast better or worse. To determine whether the forecasting efforts are making things better, we advocate using a simple metric called Forecast Value Added (FVA).
+
+#### What is Forecast Added Value?
+FVA is a metric for evaluating the performance of each step in the forecasting process. FVA measures the change in a forecasting performance metric that can be attributed to each particular step in your forecasting process.
+FVA is a lean and common-sense approach that expresses the results of doing something versus doing nothing.
+

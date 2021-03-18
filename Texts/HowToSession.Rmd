@@ -1,0 +1,18 @@
+---
+title: "How-to"
+author: "Thierry"
+date: "7/9/2017"
+output: html_document
+---
+
+
+## Sidebar
+Under the section **Input**, a user can select a local file via **Choose csv file to upload**. The **separator** used in the csv file can be selected too.
+Under the section **Options** a user is able to choose the subset of data to analyse.
+Under the last section **How-to** is where the elements of the page are described. A user can also modify the theme of the application
+
+## Main panel
+The tab **BUSINESS DATA** exhibits the data in table and graphic views.
+The tab **APPLICATION**  describes the functionalities available:
+  - Forecast Value Added (FVA)
+

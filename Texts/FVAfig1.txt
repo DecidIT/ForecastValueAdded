@@ -1,0 +1,1 @@
+The process is to read the demand history into a statistical forecasting model that generates a forecast, and then have an analyst review and (if necessary) override the statistical forecast.
