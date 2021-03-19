@@ -6,6 +6,6 @@ DecidIT
 #### Forecast Value Added
 
 Forcast Value Added -FVA is a simple metric that measures the efficiency
-of the forecasting process by assessing the efficiency of each step. The
-code proposes a the user-friendly web-based application to meseare FVA
-and improve the forecast process at low cost.
+of the forecasting process by assessing the efficiency of each step.
+Here is a user-friendly web-based application to measure FVA and improve
+the forecast process efficiently -at low cost.
